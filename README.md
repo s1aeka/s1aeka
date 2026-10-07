@@ -37,4 +37,4 @@
 ### 🚀 Key Projects
 
 - ⛏️ **[Minecraft System Monitor](https://github.com/s1aeka/minecraft-system-cleaner)** — Windows PC monitor & cleaner with 3D WebGL graphics and WinAPI integrations.
-- 🛡️ **[Cybersecurity OSINT Bot](https://github.com/s1aeka/tgbot)** — Telegram bot for IP/domain lookups, passgen, and async MySQL audit logging.
+- 🛡️ **[Cybersecurity OSINT Bot](https://github.com/s1aeka/cybersecurity-telegram-bot)** — Telegram bot for IP/domain lookups, passgen, and async MySQL audit logging.
