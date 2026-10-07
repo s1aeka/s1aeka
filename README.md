@@ -1,4 +1,4 @@
-# Hi there, I'm Daniyal 👋
+# Hi there, I'm Daniyal 
 
 **Cybersecurity Student @ APU | Python & Systems Developer**
 
